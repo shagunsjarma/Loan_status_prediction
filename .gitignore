@@ -1,3 +1,13 @@
 .loanenv
 .vscode
 .venv
+
+.artifacts
+.ipynb_checkpoints
+.pytest_cache
+.vscode
+.venv
+.env
+.env.local
+.env.development.local
+.env.test.local
