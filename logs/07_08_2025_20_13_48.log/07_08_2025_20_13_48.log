@@ -1,0 +1,13 @@
+[ 2025-07-08 20:13:51,585 ] 7 root - INFO - Starting the training pipeline...
+[ 2025-07-08 20:13:51,585 ] 28 root - INFO - Entered the data ingestion method or component
+[ 2025-07-08 20:13:51,645 ] 31 root - INFO - Read the dataset as dataframe
+[ 2025-07-08 20:13:51,654 ] 34 root - INFO - Train test split initiated
+[ 2025-07-08 20:13:51,672 ] 39 root - INFO - Ingestion of the data is completed
+[ 2025-07-08 20:13:51,699 ] 57 root - INFO - Read train and test data completed
+[ 2025-07-08 20:13:51,699 ] 58 root - INFO - Obtaining preprocessing object
+[ 2025-07-08 20:13:51,699 ] 41 root - INFO - Categorical features: ['Gender', 'Married', 'Dependents', 'Education', 'Self_Employed', 'Property_Area']
+[ 2025-07-08 20:13:51,699 ] 42 root - INFO - Numerical features: ['ApplicantIncome', 'CoapplicantIncome', 'LoanAmount', 'Loan_Amount_Term', 'Credit_History']
+[ 2025-07-08 20:13:51,706 ] 69 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-07-08 20:13:51,730 ] 72 root - INFO - Applying preprocessing object on training and testing datasets completed
+[ 2025-07-08 20:13:51,730 ] 75 root - INFO - Saved preprocessing object.
+[ 2025-07-08 20:13:51,735 ] 27 root - INFO - Splitting training and test input data
